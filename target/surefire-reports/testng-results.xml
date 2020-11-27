@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-27T22:08:21 IST" name="Default suite" finished-at="2020-11-27T22:09:08 IST" duration-ms="47488">
+    <groups>
+    </groups>
+    <test started-at="2020-11-27T22:08:21 IST" name="Default test" finished-at="2020-11-27T22:09:08 IST" duration-ms="47488">
+      <class name="com.amazon.test.testitems.HomePageTest">
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@45f45fa1]" started-at="2020-11-27T22:08:21 IST" name="SetUp" finished-at="2020-11-27T22:08:52 IST" duration-ms="30591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.test.testitems.HomePageTest.testhomePageTitle()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e11485]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="testhomePageTitle()[pri:1, instance:com.amazon.test.testitems.HomePageTest@45f45fa1]" started-at="2020-11-27T22:08:52 IST" name="testhomePageTitle" finished-at="2020-11-27T22:09:07 IST" duration-ms="15046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhomePageTitle -->
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@45f45fa1]" started-at="2020-11-27T22:09:07 IST" name="tearDown" finished-at="2020-11-27T22:09:08 IST" duration-ms="1739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.test.testitems.HomePageTest.testhomePageTitle()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2e11485]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.test.testitems.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
