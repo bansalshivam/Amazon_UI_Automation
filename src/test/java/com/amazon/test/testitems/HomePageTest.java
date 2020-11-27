@@ -9,14 +9,17 @@ import org.testng.annotations.Test;
 import com.amazon.test.base.Base;
 import com.amazon.test.pages.HomePage;
 
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 
 public class HomePageTest extends Base {
 
 	HomePage homePage;
+	private static final Logger log = Logger.getLogger(HomePageTest.class);
 	
 	@BeforeMethod
 	public void SetUp(Method method, Object[] params) {
+		log.info("Opening Browser");
 		browserInitialization();
 		homePage = new HomePage();
 	}

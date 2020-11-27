@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-27T22:12:02 IST" name="Default suite" finished-at="2020-11-27T22:12:56 IST" duration-ms="54539">
+  <suite started-at="2020-11-28T00:35:44 IST" name="Default suite" finished-at="2020-11-28T00:36:16 IST" duration-ms="31331">
     <groups>
     </groups>
-    <test started-at="2020-11-27T22:12:02 IST" name="Default test" finished-at="2020-11-27T22:12:56 IST" duration-ms="54539">
+    <test started-at="2020-11-28T00:35:44 IST" name="Default test" finished-at="2020-11-28T00:36:16 IST" duration-ms="31331">
       <class name="com.amazon.test.testitems.HomePageTest">
-        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@419c5f1a]" started-at="2020-11-27T22:12:02 IST" name="SetUp" finished-at="2020-11-27T22:12:37 IST" duration-ms="34817" status="PASS">
+        <test-method is-config="true" signature="SetUp(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@52bf72b5]" started-at="2020-11-28T00:35:45 IST" name="SetUp" finished-at="2020-11-28T00:36:08 IST" duration-ms="23264" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -16,18 +16,18 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[Ljava.lang.Object;@1e411d81]]>
+                <![CDATA[[Ljava.lang.Object;@6d1d4d7]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="testhomePageTitle()[pri:1, instance:com.amazon.test.testitems.HomePageTest@419c5f1a]" started-at="2020-11-27T22:12:37 IST" name="testhomePageTitle" finished-at="2020-11-27T22:12:54 IST" duration-ms="16760" status="PASS">
+        <test-method signature="testhomePageTitle()[pri:1, instance:com.amazon.test.testitems.HomePageTest@52bf72b5]" started-at="2020-11-28T00:36:08 IST" name="testhomePageTitle" finished-at="2020-11-28T00:36:15 IST" duration-ms="6786" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testhomePageTitle -->
-        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@419c5f1a]" started-at="2020-11-27T22:12:54 IST" name="tearDown" finished-at="2020-11-27T22:12:56 IST" duration-ms="2805" status="PASS">
+        <test-method is-config="true" signature="tearDown(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.amazon.test.testitems.HomePageTest@52bf72b5]" started-at="2020-11-28T00:36:15 IST" name="tearDown" finished-at="2020-11-28T00:36:16 IST" duration-ms="1220" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,7 +36,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[[Ljava.lang.Object;@1e411d81]]>
+                <![CDATA[[Ljava.lang.Object;@6d1d4d7]]>
               </value>
             </param>
           </params>
